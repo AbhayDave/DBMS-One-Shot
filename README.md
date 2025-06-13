@@ -1,2 +1,5 @@
-# DBMS-One-Shot
-Notes of DBMS One Shot 
+# DBMS-SQL-Resources
+
+## DBMS Notes
+## SQL Notes
+## Interview Questions 
